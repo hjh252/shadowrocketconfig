@@ -15,6 +15,12 @@ private-ip-answer = true
 dns-direct-fallback-proxy = true
 
 [Rule]
+DOMAIN-SUFFIX,gy3y.com,DIRECT
+DOMAIN-SUFFIX,wedoublecare.com,DIRECT
+DOMAIN-SUFFIX,tastientech.com,DIRECT
+DOMAIN-SUFFIX,gnzhongtian.com,DIRECT
+DOMAIN-SUFFIX,tuodan.tech,DIRECT
+DOMAIN-SUFFIX,crnet.info,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list,DIRECT
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list,DIRECT
