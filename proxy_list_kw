@@ -1,4 +1,5 @@
 # Microsoft Copilot by Dasmz Version 2023-12-31
+[Rule]
 DOMAIN,th.bing.com,PROXY
 DOMAIN,www.bingapis.com,PROXY
 DOMAIN,sapphire.api.microsoftapp.net,PROXY
