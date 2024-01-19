@@ -1,4 +1,4 @@
-#!name=proxy_list
+#!name=proxy_list_kw
 # Microsoft Copilot
 [Rule]
 DOMAIN,th.bing.com,PROXY
