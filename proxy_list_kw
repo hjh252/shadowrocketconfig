@@ -27,3 +27,5 @@ DOMAIN,in.appcenter.ms,PROXY
 DOMAIN,www.bing.com,PROXY
 DOMAIN,self.events.data.microsoft.com,PROXY
 DOMAIN,login.microsoftonline.com,PROXY
+DOMAIN,4006983383.com,DIRECT
+DOMAIN,mlinks.cc,DIRECT
