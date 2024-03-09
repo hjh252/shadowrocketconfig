@@ -29,3 +29,15 @@ DOMAIN,self.events.data.microsoft.com,PROXY
 DOMAIN,login.microsoftonline.com,PROXY
 DOMAIN-SUFFIX,4006983383.com,DIRECT
 DOMAIN-SUFFIX,mlinks.cc,DIRECT
+DOMAIN,wxgo.adwke.com,DIRECT
+DOMAIN-SUFFIX,xiangsaopay.com,DIRECT
+DOMAIN-SUFFIX,nanhaiparking.com,DIRECT
+DOMAIN-SUFFIX,gdwxyf.com,DIRECT
+DOMAIN-SUFFIX,power430.com,DIRECT
+DOMAIN-SUFFIX,eks818.com,DIRECT
+DOMAIN-SUFFIX,gnxhongning.com,DIRECT
+DOMAIN-SUFFIX,ywtinfo.com,DIRECT
+DOMAIN-SUFFIX,fsydservice.com,DIRECT
+DOMAIN-SUFFIX,telecomhr.com,DIRECT
+DOMAIN-SUFFIX,alenable.com,DIRECT
+DOMAIN-SUFFIX,mlinks.cc,DIRECT
