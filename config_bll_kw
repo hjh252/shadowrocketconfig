@@ -18,6 +18,8 @@ dns-direct-fallback-proxy = true
 RULE-SET,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/icloud.txt,DIRECT
 RULE-SET,https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/apple.txt,DIRECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/PayPal/PayPal.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list,PROXY
 DOMAIN-SUFFIX,gy3y.com,DIRECT
 DOMAIN-SUFFIX,wedoublecare.com,DIRECT
 DOMAIN-SUFFIX,tastientech.com,DIRECT
